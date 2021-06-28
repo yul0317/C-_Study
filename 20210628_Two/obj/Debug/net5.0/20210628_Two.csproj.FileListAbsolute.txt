@@ -1,0 +1,16 @@
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\bin\Debug\net5.0\20210628_Two.exe
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\bin\Debug\net5.0\20210628_Two.deps.json
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\bin\Debug\net5.0\20210628_Two.runtimeconfig.json
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\bin\Debug\net5.0\20210628_Two.runtimeconfig.dev.json
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\bin\Debug\net5.0\20210628_Two.dll
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\bin\Debug\net5.0\ref\20210628_Two.dll
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\bin\Debug\net5.0\20210628_Two.pdb
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.csproj.AssemblyReference.cache
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.AssemblyInfoInputs.cache
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.AssemblyInfo.cs
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.csproj.CoreCompileInputs.cache
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.dll
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\ref\20210628_Two.dll
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.pdb
+C:\Users\YNC\Documents\GitHub\C#_study\20210628_Two\obj\Debug\net5.0\20210628_Two.genruntimeconfig.cache
