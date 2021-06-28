@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\YNC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\YNC\\.nuget\\packages"
+    ]
+  }
+}
