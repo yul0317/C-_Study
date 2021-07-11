@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\YNC\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YNC\\Documents\\GitHub\\C#_study\\20210628_Two\\20210628_Two.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\C-_study\\20210628_Two\\20210628_Two.csproj",
       "projectName": "20210628_Two",
-      "projectPath": "C:\\Users\\YNC\\Documents\\GitHub\\C#_study\\20210628_Two\\20210628_Two.csproj",
-      "packagesPath": "C:\\Users\\YNC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YNC\\Documents\\GitHub\\C#_study\\20210628_Two\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\C-_study\\20210628_Two\\20210628_Two.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\C-_study\\20210628_Two\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\YNC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
